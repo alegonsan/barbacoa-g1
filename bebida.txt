@@ -6,7 +6,8 @@ Lista de bebidas
 
 ﻿Sin alcohol
 -----------
-
+cocacola light
+zumo manzana
 Cerveza sin
 
 Con alcohol
