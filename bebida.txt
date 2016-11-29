@@ -9,10 +9,14 @@ Lista de bebidas
 cocacola light
 zumo manzana
 Cerveza sin
+Cocacola
 
 Con alcohol
 -----------
 
+Beefeater
 Cerveza
+Matusalem 23
 J&B
 Rives 12 años
+
