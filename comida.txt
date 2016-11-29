@@ -10,7 +10,9 @@ Aceitunas
 Kikos
 Patatas fritas
 Pistachos
-
+chorizo
+pan
+kikos
 
 Platos principales
 ------------------
